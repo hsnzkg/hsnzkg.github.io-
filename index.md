@@ -30,9 +30,29 @@ for a job as a junior game developer in a new organization.
   - Wide-ranging knowledge of gaming trends
   - Ability to work as part of a team
 ### Ongoing Game Projects
+## Merge Magnet
 ![Image](Projects/MergeMagnet.png)
+
+<table>
+<tr><td>
+<div align="left"><img src="Projects/MergeMagnet.png"height="500" width="250"></div>
+</td><td>
+<div align="right"><img src="Projects/MergeMagnet1.png"height="500" width="250"></div>
+</td><td>
+<div align="right"><img src="Projects/MergeMagnet2.png"height="500" width="250"></div>
+</td></tr>
+<tr><td>
+<div align="left"><img src="Projects/MergeMagnet3.png"height="500" width="250"></div>
+</td><td>
+<div align="right"><img src="Projects/MergeMagnet4.png"height="500" width="250"></div>
+</td><td>
+<div align="right"><img src="Projects/MergeMagnet5.png"height="500" width="250"></div>
+</td></tr>
+</table>
+
 ### Contact
 - Mail: hsnzkg@gmail.com
 - LinkedIn: www.linkedin.com/in/hsnzkg
+
 
 
