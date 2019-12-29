@@ -31,8 +31,6 @@ for a job as a junior game developer in a new organization.
   - Ability to work as part of a team
 ### Ongoing Game Projects
 ## Merge Magnet
-![Image](Projects/MergeMagnet.png)
-
 <table>
 <tr><td>
 <div align="left"><img src="Projects/MergeMagnet.png"height="500" width="250"></div>
