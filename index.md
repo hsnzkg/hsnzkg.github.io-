@@ -30,23 +30,10 @@ With over 2 years of experience in the gaming industry.
   - Ability to work as part of a team
 ### Ongoing Game Projects
 ## Merge Magnet
-<table>
-<tr><td>
-<div align="left"><img src="Projects/MergeMagnet.png"height="500" width="250"></div>
-</td><td>
-<div align="right"><img src="Projects/MergeMagnet1.png"height="500" width="250"></div>
-</td><td>
-<div align="right"><img src="Projects/MergeMagnet2.png"height="500" width="250"></div>
-</td></tr>
-<tr><td>
-<div align="left"><img src="Projects/MergeMagnet3.png"height="500" width="250"></div>
-</td><td>
-<div align="right"><img src="Projects/MergeMagnet5.png"height="500" width="250"></div>
-</td><td>
-<div align="right"><img src="Projects/MergeMagnet4.png"height="500" width="250"></div>
-</td></tr>
-</table>
-
+|               |               |       |
+| ------------- |:-------------:| -----:|
+| <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet.png" width="200"> |
+| <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet.png" width="200"> |
 ### Contact
 - Mail: hsnzkg@gmail.com
 - LinkedIn: www.linkedin.com/in/hsnzkg
