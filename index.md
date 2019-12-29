@@ -30,7 +30,7 @@ for a job as a junior game developer in a new organization.
   - Wide-ranging knowledge of gaming trends
   - Ability to work as part of a team
 ### Ongoing Game Projects
-![Image](projects/MergeMagnet.png)
+![Image](Projects/MergeMagnet.png)
 ### Contact
 - Mail: hsnzkg@gmail.com
 - LinkedIn: www.linkedin.com/in/hsnzkg
