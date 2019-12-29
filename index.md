@@ -32,8 +32,8 @@ With over 2 years of experience in the gaming industry.
 ## Merge Magnet
 |               |               |       |
 | ------------- |:-------------:| -----:|
-| <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet.png" width="200"> |
-| <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet.png" width="200"> |
+| <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet1.png" width="200"> | <img src="Projects/MergeMagnet2.png" width="200"> |
+| <img src="Projects/MergeMagnet3.png" width="200"> | <img src="Projects/MergeMagnet4.png" width="200"> | <img src="Projects/MergeMagnet5.png" width="200"> |
 ### Contact
 - Mail: hsnzkg@gmail.com
 - LinkedIn: www.linkedin.com/in/hsnzkg
