@@ -31,7 +31,7 @@ With over 2 years of experience in the gaming industry.
 ### Ongoing Game Projects
 ## Merge Magnet
 |      Merge    |      Magnet   |   Screenshots    |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| ----------------:|
 | <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet1.png" width="200"> | <img src="Projects/MergeMagnet2.png" width="200"> |
 | <img src="Projects/MergeMagnet3.png" width="200"> | <img src="Projects/MergeMagnet4.png" width="200"> | <img src="Projects/MergeMagnet5.png" width="200"> |
 ### Contact
