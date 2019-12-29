@@ -42,9 +42,9 @@ for a job as a junior game developer in a new organization.
 <tr><td>
 <div align="left"><img src="Projects/MergeMagnet3.png"height="500" width="250"></div>
 </td><td>
-<div align="right"><img src="Projects/MergeMagnet4.png"height="500" width="250"></div>
-</td><td>
 <div align="right"><img src="Projects/MergeMagnet5.png"height="500" width="250"></div>
+</td><td>
+<div align="right"><img src="Projects/MergeMagnet4.png"height="500" width="250"></div>
 </td></tr>
 </table>
 
