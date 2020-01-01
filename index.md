@@ -30,10 +30,23 @@ With over 2 years of experience in the gaming industry.
   - Ability to work as part of a team
 ### Ongoing Game Projects
 ## Merge Magnet
-|      Merge    |      Magnet   |   Screenshots    |
-| ------------- |:-------------:| ----------------:|
-| <img src="Projects/MergeMagnet.png" width="200"> | <img src="Projects/MergeMagnet1.png" width="200"> | <img src="Projects/MergeMagnet2.png" width="200"> |
-| <img src="Projects/MergeMagnet3.png" width="200"> | <img src="Projects/MergeMagnet4.png" width="200"> | <img src="Projects/MergeMagnet5.png" width="200"> |
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
 ### Contact
 - Mail: hsnzkg@gmail.com
 - LinkedIn: www.linkedin.com/in/hsnzkg
