@@ -32,21 +32,17 @@ With over 2 years of experience in the gaming industry.
 ## Merge Magnet
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <td><img src="Projects/MergeMagnet.png" alt="Girl in a jacket" style="width:500px;height:600px;"></td>
+    <td><img src="Projects/MergeMagnet1.png" alt="Girl in a jacket" style="width:500px;height:600px;"></td>
+    <td><img src="Projects/MergeMagnet2.png" alt="Girl in a jacket" style="width:500px;height:600px;"></td>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td><img src="Projects/MergeMagnet3.png" alt="Girl in a jacket" style="width:500px;height:600px;"></td>
+    <td><img src="Projects/MergeMagnet4.png" alt="Girl in a jacket" style="width:500px;height:600px;"></td>
+    <td><img src="Projects/MergeMagnet5.png" alt="Girl in a jacket" style="width:500px;height:600px;"></td>
   </tr>
 </table>
+
 ### Contact
 - Mail: hsnzkg@gmail.com
 - LinkedIn: www.linkedin.com/in/hsnzkg
