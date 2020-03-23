@@ -28,19 +28,6 @@ With over 2 years of experience in the gaming industry.
   - Creating a new mechanism for mobile games
   - Wide-ranging knowledge of gaming trends
   - Ability to work as part of a team
-### Ongoing Game Projects
-## Merge Magnet
-<table style="width:100%">
-  <tr>
-    <td><img src="Projects/MergeMagnet.png" alt="Girl in a jacket" style="width:300px;height:500px;"></td>
-    <td><img src="Projects/MergeMagnet1.png" alt="Girl in a jacket" style="width:300px;height:500px;"></td>
-    <td><img src="Projects/MergeMagnet2.png" alt="Girl in a jacket" style="width:300px;height:500px;"></td>
-  </tr>
-  <tr>
-    <td><img src="Projects/MergeMagnet3.png" alt="Girl in a jacket" style="width:300px;height:500px;"></td>
-    <td><img src="Projects/MergeMagnet4.png" alt="Girl in a jacket" style="width:300px;height:500px;"></td>
-    <td><img src="Projects/MergeMagnet5.png" alt="Girl in a jacket" style="width:300px;height:500px;"></td>
-  </tr>
 </table>
 
 ### Contact
